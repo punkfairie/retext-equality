@@ -83,7 +83,7 @@ to allow them.
 | `buckteeth` | [basic](#basic) | `bucktoothed`, `buckteeth` | `person with prominent teeth`, `prominent teeth` |
 | `bugreport` | [basic](#basic) | `bugreport` | `bug report`, `snapshot` |
 | `calendar-girl` | [basic](#basic) | `calendar girl` | `model` |
-| `call-girl` | [basic](#basic) | `call girl` | `escort`, `prostitute`, `sex worker` |
+| `call-girl` | [basic](#basic) | `call girl` | `escort`, `sex worker` |
 | `cameraman-camerawoman` | [or](#or) | `camerawoman` (female), `cameraman` (male) | `camera operator`, `camera person` |
 | `cameramen-camerawomen` | [or](#or) | `camerawomen` (female), `cameramen` (male) | `camera operators` |
 | `cattleman-cattlewoman` | [or](#or) | `cattlewoman` (female), `cattleman` (male) | `cattle rancher` |
