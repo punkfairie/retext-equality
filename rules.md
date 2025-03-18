@@ -340,6 +340,7 @@ to allow them.
 | `powwow` | [basic](#basic) | `pow wow`, `powwow` | `conference`, `gathering`, `meeting` |
 | `prince-princess` | [or](#or) | `princess` (female), `prince` (male) | `heir` |
 | `princes-princesses` | [or](#or) | `princesses` (female), `princes` (male) | `heirs` |
+| `prostitute` | [basic](#basic) | `prostitute` | `sex worker`, `escort` |
 | `psychotic` | [basic](#basic) | `psychotic`, `suffers from psychosis`, `suffering from psychosis`, `afflicted with psychosis`, `victim of psychosis` | `person with a psychotic condition`, `person with psychosis` |
 | `pull-the-trigger` | [basic](#basic) | `pull the trigger` | `go for it`, `take a chance`, `make a move`, `take action` |
 | `quadriplegic` | [basic](#basic) | `quadriplegic` | `person with quadriplegia` |

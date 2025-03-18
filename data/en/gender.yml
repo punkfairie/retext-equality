@@ -1745,6 +1745,12 @@
   considerate: poet
   inconsiderate: poetess
 - type: basic
+  source: https://www.nswp.org/sites/default/files/terminology_guide_english_prf03.pdf
+  considerate:
+    - sex worker
+    - escort
+  inconsiderate: prostitute
+- type: basic
   source: https://radyananda.wordpress.com/2009/06/06/nonsexist-alternative-language-handbook-for-conscious-writers/
   considerate: railway worker
   inconsiderate: railwayman
